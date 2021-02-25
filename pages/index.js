@@ -1,11 +1,24 @@
-import React from 'react'
+ import React from 'react'
 import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>funciona [Quiniela de Tucumán](https://lacritica.com.ar/quiniela-det-tucuman)</h1>
+    <h1>funciona</h1>
 
-    <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
+    <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucumán</a></h3>
+      <h3><a href="https://lacritica.com.ar/quiniela-de-tucuman">Ana Pedraza</a></h3>
+  
+
+      <h3><a href="https://argencon.org">argencon</a></h3>
+
+      <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela Tucuman</a></h3>
+
+      <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
+
+      <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
+
+      <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
+
 
     <style jsx>{`
       :global(html,body) {
