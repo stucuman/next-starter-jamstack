@@ -6,14 +6,14 @@ const Home = () => (
     <h1>funciona</h1>
 
     <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucumán</a></h3>
-      <h3><a href="https://lacritica.com.ar/quiniela-de-tucuman">Ana Pedraza</a></h3>
+      <h3><a href="https://lacritica.com.ar/2020/06/25/ana-pedraza-tucumana-belleza/">Ana Pedraza</a></h3>
   
 
       <h3><a href="https://argencon.org">argencon</a></h3>
 
-      <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela Tucuman</a></h3>
+      <h3><a href="https://lacritica.com.ar/2021/02/02/martin-cirio-reaparecio-me-descarto-como-si-no-fuera-nada/">Martin Cirio</a></h3>
 
-      <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
+      <h3>Mirá<a href="https://mercadoads.com">como vender mas en mercado libre</a></h3>
 
       <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
 
