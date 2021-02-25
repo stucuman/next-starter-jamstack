@@ -5,7 +5,7 @@ const Home = () => (
   <div>
     <h1>funciona [Quiniela de Tucumán](https://lacritica.com.ar/quiniela-det-tucuman)</h1>
 
-    <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+    <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
 
     <style jsx>{`
       :global(html,body) {
