@@ -19,11 +19,7 @@ const Home = () => (
 
       <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
  
-Las <a href="http://lacritica.com.ar">noticias de Tucuman</a>, estan informadas dia a dia por diversos medios online, algunos tradicionales como La Gaceta y <a href="http://lacritica.com.ar">Contexto Tucuman</a>. Otros mas nuevos como ser <a href="http://lacritica.com.ar">Los primeros</a> y el tucumano, que ya gozan de una muy buena cantidad de visitas.
 
-Los Diarios de Tucuman muestran noticias de todo el ámbito de la provincia, información deportiva como así también las novedades en torno a la inseguridad.
-
-Vas a encontrar información sobre
 <h3>inseguridad en tucuman</h3>
 <h3><a href="http://lacritica.com.ar">noticias de tucuman</a></h3>
 <h3><a href="https://lacritica.com.ar/clima-en-tucuman/">Clima en Tucuman</a></h3>
