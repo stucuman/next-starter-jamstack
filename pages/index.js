@@ -66,7 +66,7 @@ const Home = () => (
 <h3><a href="https://www.google.es/url?q=https://lacritica.com.ar/"> ricardo bussi </a></h3>
 <h3><a href="https://spark.adobe.com/page/QGyPFWsmiJCTK/">adobe </a></h3>
 <h3><a href="marketingdigitalexperience.com/curso-de-marketing-digital/">curso de marketing digital </a></h3>
-<h3><a href="https://huffduffer.com/sebasg/610279">huffduffer</h3>
+<h3><a href="https://huffduffer.com/sebasg/610279">huffduffer</a></h3>
 <h3><a href="https://spacebabe.ams3.digitaloceanspaces.com/index.html">Spaces babe</a></h3>
 <h3><a href="https://epaepa.oss-ap-northeast-1.aliyuncs.com/index.html">Epaepadiscoestepa</a></h3>
 <h3><a href="https://bit.ly/3eLLr0v">bitly</a></h3>
