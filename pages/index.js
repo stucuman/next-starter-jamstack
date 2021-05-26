@@ -43,8 +43,8 @@ const Home = () => (
 <h3><a href="http://argencon.org">Argencon</a></h3>
 <h3><a href="http://telefonosatencioncliente.xyz">Telefonos de atencion al cliente</a></h3>
 <h3><a href="https://lacritica.netlify.app">netlify</a></h3>
-<h3><a href="https://sites.google.com/view/tuquman/">tucuman</h3>
-<h3><a href="https://sebastiangomes5.wixsite.com/tuquman">tucuman</h3>
+<h3><a href="https://sites.google.com/view/tuquman/">tucuman</a></h3>
+<h3><a href="https://sebastiangomes5.wixsite.com/tuquman">tuc</a>/h3>
 <h3><a href="https://proyectoasistir.com.ar">piscologo online</a></h3>
 <h3><a href="https://sastreriagiordano.com.ar">alquiler de trajes en tucuman</a></h3>
 <h3><a href="https://proyectoasistir.com.ar">piscologo online </a></h3>
