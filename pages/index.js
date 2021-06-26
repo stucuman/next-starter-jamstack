@@ -17,35 +17,29 @@ const Home = () => (
 
       <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
 
-      <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">Quiniela de Tucuman</a></h3>
+      <h3>Hooray 🎉 - Veamos sin funciona la <a href="https://lacritica.com.ar/quiniela-de-tucuman">resultados Quiniela de Tucuman</a></h3>
  
 
-<h3>inseguridad en tucuman</h3>
+
 <h3><a href="http://lacritica.com.ar">noticias de tucuman</a></h3>
 <h3><a href="https://lacritica.com.ar/clima-en-tucuman/">Clima en Tucuman</a></h3>
-<h3>ceferino decima</h3>
+
 <h3><a href="https://lacritica.com.ar/2020/02/03/ana-pedraza-la-periodista-tucumana-que-cautiva-con-su-carisma-y-aman-en-buenos-aires/"> ana pedraza</a></h3>
-<h3>Celia Nahra</h3>
-<h3>juan manzur</h3>
-<h3>osvaldo jaldo</h3>
-<h3>jose cano</h3>
-<h3>silvia elias de perez</h3>
-<h3>jose maria canelada</h3>
 <h3><a href="https://lacritica.com.ar/clima-en-tucuman/">clima en Tucuman</a></h3>
 <h3><a href="https://lacritica.com.ar/quiniela-de-tucuman"><strong>quiniela de tucuman</strong></a></h3>
 <h3><a href="https://lacritica.com.ar/2020/04/27/es-la-senora-poron-el-tucu-lopez-mostro-de-mas-y-ardio-twitter/">tucu lopez</a></h3>
 <h3><a class="" href="https://lacritica.com.ar/2020/01/27/silvina-saleme-posleman-le-prendio-fuego-a-los-cerros-tucumanos-con-fotos-super-hot/">silvina saleme posleman</a></h3>
 <h3><a href="https://lacritica.com.ar/2020/02/19/jorgelina-zalazar-vs-gladys-la-bomba-tucumana-que-susto-que-se-llevo-la-video/?swcfpc=1">jorgelina zalazar</a></h3>
-<h3>pablo verxelitaki</h3>
-<h3>daniela suarez</h3>
-<h3><a href="https://lacritica.com.ar/?s=daniela+orce%C2%A0">daniela orce</a></h3>
-<h3><a href="https://lacritica.com.ar/?s=lucia+rossi%C2%A0">lucia rossi</a></h3>
-<h3><a href="http://argencon.org">Argencon</a></h3>
+
 <h3><a href="http://telefonosatencioncliente.xyz">Telefonos de atencion al cliente</a></h3>
 <h3><a href="https://lacritica.netlify.app">netlify</a></h3>
 <h3><a href="https://sites.google.com/view/tuquman/">tucuman</a></h3>
 <h3><a href="https://sebastiangomes5.wixsite.com/tuquman">tuc</a>/h3>
 <h3><a href="https://proyectoasistir.com.ar">piscologo online</a></h3>
+ <h3><a href="https://proyectoasistir.com.ar">asistencia psicologica gratuita</a></h3>
+ <h3><a href="https://proyectoasistir.com.ar">asistencia psicologica gratuita en buenos aires</a></h3>
+ <h3><a href="https://proyectoasistir.com.ar">asistencia psicologica gratuita en capital federal</a></h3>
+ <h3><a href="https://proyectoasistir.com.ar">psicologo gratis buenos aires</a></h3>
 <h3><a href="https://sastreriagiordano.com.ar">alquiler de trajes en tucuman</a></h3>
 <h3><a href="https://proyectoasistir.com.ar">piscologo online </a></h3>
 <h3><a href="https://sastreriagiordano.com.ar">alquiler de trajes para fiestas en tucuman</a></h3>
@@ -73,6 +67,21 @@ const Home = () => (
 <h3><a href="https://tucuman.hatenablog.com/entry/2021/05/15/133138">hatena</a></h3>
 <h3><a href="https://lacritica.com.ar/2021/05/16/barbie-beltramino/">Barbie Beltramino</a></h3>
 <h3><a href="https://ar.pinterest.com/LACRITICAok">pinterest</a></h3>
+ <h3><a href="https://tucumaneando.vercel.app/">vercel</a></h3>
+<h3><a href="https://telekino.netlify.app/">quiniela</a></h3>
+<h3><a href="https://blog.goo.ne.jp/tucuman/e/2a37fd7d0413a9372510e9b8c13a057e">japan</a></h3>
+<h3><a href="https://grabcad.com/seba.gomes-1">grabcad</a></h3>
+<h3><a href="https://gfycat.com/@quinieladetucuman">twitaah</a></h3>
+<h3><a href="https://community.cisco.com/t5/user/viewprofilepage/user-id/1209451">cisco</a></h3>
+<h3><a href="https://issuu.com/lacriticadiario">issu</a></h3>
+<h3><a href="https://community.focusme.com/member.php?action=profile&uid=2910">focusme</a></h3>
+<h3><a href="https://www.producthunt.com/@sebasg">hunt</a></h3>
+<h3><a href="https://www.folkd.com/user/sebasg">folkd</a></h3>
+<h3><a href="http://gijonenelrecuerdo.elcomercio.es/2019/02/gijon-la-ciudad-industrial-burguesa-1880-1920.html#comment-2051">giron</a></h3>
+<h3><a href="https://seositecheckup.com/seo-audit/lacritica.com.ar">seo</a></h3>
+<h3><a href="https://demo-git-master-stucuman.vercel.app/">app</a></h3>
+<h3><a href="https://demo-stucuman.vercel.app/">vercell</a></h3>
+<h3><a href="https://tucumann.oss-ap-northeast-1.aliyuncs.com/index.html">alibababba</a></h3>
 
 
     <style jsx>{`
